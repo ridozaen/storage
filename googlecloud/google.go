@@ -1,4 +1,4 @@
-package storage
+package googlecloud
 
 import (
 	"context"
